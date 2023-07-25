@@ -12,3 +12,5 @@ def my_functions():
   print("Hello from a function")
 
 my_functions()
+
+#this i going te be stashed
