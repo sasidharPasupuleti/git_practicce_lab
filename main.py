@@ -8,7 +8,7 @@ print("Files and directories in '", path, "' :")
 print(dir_list) 
 
 #this function should print
-def my_function():
+def my_functions():
   print("Hello from a function")
 
-my_function()
+my_functions()
